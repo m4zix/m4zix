@@ -14,7 +14,7 @@ I'm currently studying at **I-TECH School for Applied Technology** (under the **
 
 <h3>Languages & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,js,html,git,css,flutter,kali,python,php,mysql,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,js,html,git,css,flutter,kali,python,php,mysql,cpp&perline=6)](https://skillicons.dev)
 
 I specialize in:
 - 🛡️ Penetration Testing  
