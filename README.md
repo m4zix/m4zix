@@ -34,7 +34,7 @@ My journey began by solving computer issues as a kid and being inspired by cyber
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://medium.com/@m4zix/test-af40ee234eb9?source=rss-15e309268605------2)
+- [PortSwigger Lab: Username Enumeration via Different Responses](https://medium.com/@m4zix/portswigger-lab-username-enumeration-via-different-responses-3720eaf61e82?source=rss-15e309268605------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
