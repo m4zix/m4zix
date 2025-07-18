@@ -33,10 +33,7 @@ My journey began by solving computer issues as a kid and being inspired by cyber
 
 ## ✍️ Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [PortSwigger Lab: 2FA Simple Bypass](https://medium.com/@m4zix/portswigger-lab-2fa-simple-bypass-edf3e9b7c7eb?source=rss-d56c1d14e874------2)
-- [PortSwigger Lab: Username Enumeration via Different Responses](https://medium.com/@m4zix/portswigger-lab-username-enumeration-via-different-responses-4d68916c364a?source=rss-d56c1d14e874------2)
-<!-- BLOG-POST-LIST:END -->
+see it on my site https://m4zix.github.io
 
 ---
 
