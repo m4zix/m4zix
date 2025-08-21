@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/hGCkSx39/linkedin-banner.png)](https://linkedin.com/in/mazenahmedmohamed)
+[![MasterHead](https://i.postimg.cc/RCdRKq8M/Black-and-White-Modern-Marketing-Linked-In-Article-Cover-Image.png)](https://linkedin.com/in/mazenahmedmohamed)
 
 <h1 align="center">Hi there, I'm Mazen Ahmed! 👋</h1>
 <h3 align="center">Cybersecurity Specialist | Penetration Tester</h3>
